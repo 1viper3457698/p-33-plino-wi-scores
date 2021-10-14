@@ -1,1 +1,2 @@
-# p-33-plino-wi-scores
+# p5.play-boilerplate
+Boiler plate for p5.play
